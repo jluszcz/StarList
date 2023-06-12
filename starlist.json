@@ -1,0 +1,68 @@
+{
+  "title": "The Star List",
+  "lists": [
+    {
+      "title": "Michelin Starred Restaurants",
+      "list": [
+        {
+          "item": "Smyth (Chicago)",
+          "tooltip": "⭐️⭐️ • 2023-06-10"
+        },
+        {
+          "item": "Ever (Chicago)",
+          "tooltip": "⭐️⭐️ • 2023-06-09"
+        },
+        {
+          "item": "Eleven Madison Park (New York City)",
+          "tooltip": "⭐️⭐️⭐️ • 2022-10-21"
+        },
+        {
+          "item": "Daniel (New York City)",
+          "tooltip": "⭐️⭐️ • 2021-09-25"
+        },
+        {
+          "item": "Gramercy Tavern (New York City)",
+          "tooltip": "⭐️ • 2021-09-25"
+        },
+        {
+          "item": "Alinea (Chicago)",
+          "tooltip": "⭐️⭐️⭐️ • 2019-08-03"
+        },
+        {
+          "item": "Per Se (New York City)",
+          "tooltip": "⭐️⭐️⭐️ • 2019-06-08"
+        },
+        {
+          "item": "Pineapple and Pearls (Washington, D.C.)",
+          "tooltip": "⭐️⭐️ • 2018-11-10"
+        },
+        {
+          "item": "Peter Luger's (New York City)",
+          "tooltip": "⭐️ • 2018-06-08"
+        },
+        {
+          "item": "Grace (Chicago)",
+          "tooltip": "⭐️⭐️⭐️ • 2017-11-04"
+        },
+        {
+          "item": "Fera at Claridge's (London)",
+          "tooltip": "⭐️ • 2016-08-07"
+        },
+        {
+          "item": "Jean-Georges (New York City)",
+          "tooltip": "⭐️⭐️⭐️ • 2014-11-15"
+        },
+        {
+          "item": "Dinner by Heston (London)",
+          "tooltip": "⭐️⭐️ • 2014-05-14"
+        }
+      ]
+    }
+  ],
+  "footerLinks": [
+    {
+      "url": "https://github.com/jluszcz/StarList",
+      "icon": "github"
+    }
+  ]
+}
